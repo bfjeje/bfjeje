@@ -3,7 +3,7 @@
 
 - 👷‍♂️ I’m currently working at a software company called **Zup**.
 
-- 🌱 I’m enhancing my **Mobile Development Skills**.
+- 🌱 I’m enhancing my **Mobile Development Skills**, and I´m migrating to other areas, like **Back-End** and **DevOps** development.
 
 - 👭 **Android & Kotlin** development.
 
