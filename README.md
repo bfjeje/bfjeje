@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bfjeje&show_icons=true&locale=en" alt="GitHub stats for Bruno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bfjeje&" alt="Heroku stats for Bruno" /></p>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/68a792e12570104342da0607?variant=dark&roadmaps=android)](https://roadmap.sh)
